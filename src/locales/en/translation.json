@@ -1,0 +1,361 @@
+{
+   "Navigation" : {
+    "title1": "Prof. Zhordania",
+    "title2": "& Prof. Khomasuridze",
+    "title3": "reproductology institute",
+    "home": "Home",
+    "services": "Services",
+    "team": "Team",
+    "about": "About us",
+    "contact": "Contact",
+    "govPrograms": "Gov aid programs",
+    "residency": "Residency"
+},
+    "ServicesSection" : {
+        "title1" : "Diagnosis and treatment of male and female infertility",
+        "title2" : "Gynecological endocrinology",
+        "title3" : "Gynecology",
+        "title4" : "Diagnosis",
+        "1box1" : "Premature pregnancy (habitual abortions)",
+        "1box2" : "Monitoring of high-risk pregnancy",
+        "1box3" : "The clinic operates a free state program for monitoring pregnant women",
+        "2box1" : "Menstrual cycle disorders",
+        "2box2" : "Obesity, acne, oily seborrhea, androgenetic alopecia",
+        "2box3" : "Hypothalamo-pituitary disorders, hyperprolactinemia, thyroid gland dysfunction",
+        "2box4" : "Premenstrual syndrome",
+        "2box5" : "Dysfunctional bleeding",
+        "3box1" : "Inflammatory diseases of female genital organs",
+        "3box2" : "Benign growths of the uterus - uterine myoma, uterine polyps",
+        "3box3" : "Cervical pathologies",
+        "3box4" : "Endometriosis",
+        "3boxExtra1" : "A test is performed to determine immunological and cervical factors for incompatibility of couples",
+        "3boxExtra2" : "Proper preparation of patients for artificial insemination, insemination, artificial insemination is in progress",
+        "3boxExtra3" : "Cryopreservation of reproductive material is carried out",
+        "4box1" : "Echoscopy",
+        "4box2" : "Colposcopy",
+        "4box3" : "Hormonal research",
+        "4box4" : "Immunological and bacteriological research",
+        "4box5" : "Clinical analyses",
+        "4box6" : "Pap smear test",
+        "servicesButton" : "All Services"
+    },
+    "CarouselSection" : {
+        "staff1" : {
+            "name": "Archil",
+            "lastname": "Khomasuridze",
+            "profession": "Obstetrics and Gynecology, Reproductologist Doctor, Urologist, Andrologist"
+        },
+        "staff2" : {
+            "name": "Lali",
+            "lastname": "Pkhaladze",
+            "profession": "Reproductologist Doctor, Obstetrics and Gynecology"
+        },
+        "staff3" : {
+            "name": "Tamar",
+            "lastname": "Diakonidze",
+            "profession": "Reproductologist Doctor, Obstetrics and Gynecology"
+        },
+        "staff4" : {
+            "name": "Nino",
+            "lastname": "Datoshvili",
+            "profession": "Radiologist"
+        },
+        "staff5" : {
+            "name": "Nana",
+            "lastname": "Chopikashvili",
+            "profession": "Child and adolescent Gynecologist-Endocrinologist"
+        },
+        "staff6" : {
+            "name": "Vivi",
+            "lastname": "Bibilashvili",
+            "profession": "Reproductologist Doctor, Gynecologist"
+        },
+        "staff7" : {
+            "name": "Revaz",
+            "lastname": "Tsitsishvili",
+            "profession": "Doctor Mammologist"
+        },
+        "staff8" : {
+            "name": "Ketevan",
+            "lastname": "Djapharidze",
+            "profession": "Doctor Therapist"
+        },
+            
+        "staff9" : {
+            "name": "Nino",
+            "lastname": "Razhamashvili",
+            "profession": "Reproductologist Doctor, Obstetrics and Gynecology"
+        },
+        "staff10" : {
+            "name": "Nana",
+            "lastname": "Levidze",
+            "profession": "Doctor Endocrinologist"
+        },
+        "staff11" : {
+            "name": "Tinatin",
+            "lastname": "Phirtskhalava",
+            "profession": "Reproductologist Doctor, Gynecologist"
+        },
+        "staff12" : {
+            "name": "Irine",
+            "lastname": "Marghania",
+            "profession": "Mammologist, Reproductologist Doctor, Oncologist"
+        },
+        "staff13" : {
+            "name": "Giorgi",
+            "lastname": "Nadareishvili",
+            "profession": "Urologist, Andrologist"
+        },
+        "staff14" : {
+            "name": "Nana",
+            "lastname": "Kvashilava",
+            "profession": "Doctor Endocrinologist"
+        },
+        "staff15" : {
+            "name": "Liudmila",
+            "lastname": "Barbaqadze",
+            "profession": "Reproductologist Doctor, Obstetrics and Gynecology"
+        },
+        "staff16" : {
+            "name": "Ekaterine",
+            "lastname": "Lezhava",
+            "profession": "Obstetrics and Gynecology"
+        },
+        "staff17" : {
+            "name": "Nino",
+            "lastname": "Davidova",
+            "profession": "Reproductologist Doctor, Obstetrics and Gynecology"
+        },
+        "staff18" : {
+            "name": "Mariam",
+            "lastname": "Tophuria",
+            "profession": "Reproductologist Doctor"
+        },
+        "carouselButton": "All Doctors"
+    },
+    "ServicesPage" : {
+        "aidBox" : {
+            "title" : "In our clinic, operates: state programs for hepatitis C, referral assistance and diabetes management, which are financed with the support of the Ministry of Health",
+            "p1" : "With the state diabetes management program, citizens are provided with examinations and consultations with doctors of various profiles",
+            "p2" : "The referral assistance program applies to citizens with socially vulnerable status",
+            "p3" : "Persons suffering from diabetes with socially vulnerable status are financed by 100%",
+            "p4" : "Patients using insulin are financed by 70%",
+            "p5" : "Patients on medication are financed by 50%"
+        },
+        "diagnosis" : {
+            "title" : "Diagnosis",
+            "p1" : "Clinical and laboratory diagnostics (hormonal, clinical, virological, cytological, hematological, biochemical, immunological technologies)",
+            "p2" : "Immune matching of couples",
+            "p3" : "Assessment of uterine tube patency",
+            "p4" : "Ultrasound",
+            "p5" : "Colposcopy",
+            "p6" : "Pap smear",
+            "p7" : "External quality control"
+        },
+        "syndrom" : {
+            "title" : "Management of climacteric syndrome",
+            "p1" : "Andrology, Urology, Sexology",
+            "p2" : "Pathologies of the mammary gland",
+            "p3" : "Contraception"
+        },
+        "kids" : {
+            "title" : "Preventive examination of children and adolescents, diagnosis, appropriate treatment, dynamic observation, disease management if necessary"
+        },
+        "residency" : {
+            "title" : "Residency"
+        }
+    },
+    "TeamPage" : {
+        "team" : {
+           "staff0" : {
+                "name": "Archil",
+                "lastname": "Khomasuridze",
+                "shortInfo": "General director of the clinic, Ph.D, professor, academician",
+                "longInfo": "He is a speaker, organizer and chairman of various international and local conferences, as well as a member of the editorial board of scientific journals. Author of 450 scientific works, 10 textbooks, 6 monographs, 3 inventions, supervisor of 50 candidate and 5 doctoral theses. Through his efforts, a new medical field - 'Reproductology' was created, since 1997, Georgia became the first country in the world, where reproduction was officially established as an independent medical discipline. A network of reproductive services was created across the country, certification and licensing of doctors and medical institutions in reproductive medicine began. The first specialized council for the defense of theses in reproductology was created and started to work, the publication of the 'Reproductology' magazine was started. The first reproductive chair in history was established, he is the founder and president of the Georgian Reproductive Health Association, his name is associated with many progressive initiatives in Georgian medicine - contraception. Introduction of laparoscopic, 'in-vitro' fertilization technologies and many others. Mifepristone was used for the first time in Georgia by him in obstetrics-gynecology and reproductive medicine. Medical experience - 55 years, teaching experience - 50 years. Field of activity: reproductive medicine, obstetrics-gynecology and perinatal medicine, endocrinology, andrology, healthcare organization.",
+                "experienceInfo": "In 1965, he graduated from Tbilisi State University. Faculty of Medicine of the Medical Institute; 1965-1969 He was a graduate student of the All-Union Clinical and Experimental Endocrinology Institute (Moscow); In 1969-1972, he was the resident of maternity hospital No. 10 in Moscow; 1965-1985 He worked in St. Moscow Union Obstetrics and Gynecology S/K Institute; 1969 In 1979, he defended his candidate's and doctoral theses. 1985-2012 was i. Jordan's house Director General of the S/K Institute of Human Reproduction; From 1997 to the present day, Iv. Javakhishvili house Head of the Department of Reproductology and Obstetrics and Gynecology of the Faculty of Medicine of Tbilisi State University, full professor; Member of Georgian and international scientific academies and associations, including member of the International Academy of Reproducologists since 1997; In 1996-2012, he was the coordinator, director and consultant of international programs (UNFPA, WHO) in the field of reproductive health; 1988-2002 World Health Organization (WHO) expert. Field of practice: female and male infertility, artificial (medical and surgical) abortion, contraception, family planning, endometriosis, polycystic ovaries, uterine fibroids, developmental defects, menstrual cycle disorders (bleeding, oligomenorrhea, hypothalamic syndrome, obesity, female and male climacteric syndrome) , In Vitro fertilization, sexual disorders, female hygiene, sex life hygiene, breast diseases, pregnancy monitoring.",
+                "participentInfo": "President of the Reproductive Health Association of Georgia. Head of the Department of Reproductology and Obstetrics and Gynecology of Ivane Javakhishvili Tbilisi State University, Faculty of Medicine, full professor. Member of the International Academy of Reproducologists. Academician of the Academies of Natural Sciences, Medical-Biological and Medical-Social Sciences."
+            },
+            "staff1" : {
+                "name" : "Lali",
+                "lastname" : "Pkhaladze",
+                "shortInfo" : "Doctor of reproductive medicine, gynecologist, academic doctor of medicine, clinical director of the Archil Khomasuridze Institute of Reproduction, head of the residency program 'Reproductive Medicine', guest lecturer of the Faculty of Medicine of Ivane Javakhishvili Tbilisi State University",
+                "longInfo" : "1992 Graduated from Tbilisi State Medical Institute Faculty of Medicine; From 1993 to 2014, I. Jordan's house as a doctor reproductive specialist in the Scientific Research Institute of Human Reproduction; From 2014 to the present, he is the clinical director of the Archil Khomasuridze Institute of Reproductology; 2002 He defended his candidate's thesis and in 2006 awarded the degree of Academic Doctor of Medicine; has completed internships abroad and holds international certificates; is an international trainer in reproductive health at Johns Hopkins University; actively participates in local and international congresses and conferences as a speaker; is the author of 31 scientific works, 1 textbook, state guideline and more than 100 popular medical articles; He is a member of the Reproductive Health Association of Georgia, the International Society of Gynecologists and Endocrinologists, the European Association of Gynecologists, the European Medical Society of Sexologists. Field of activity: gynecological endocrinology, reproductive medicine, gynecology. Experience of medical activity - 28 years. 31 scientific works, 1 manual, state guideline, more than 100 scientific - popular articles. 'Family planning' recommendation (guideline), 2018 randomized, double-blind, placebo-controlled study: 'MENOPAUSE RELIFE EP-40-CIMICIFUGA EP 40 and RODIOLA Efficacy of a Fixed Combination of ERP-7 Extracts in Women with Menopausal Symptoms' - Principal Investigator The Role of Anti-Müllerian Hormone in the Management of Adolescent Girls with Polycystic Ovaries, E. Asanidze, L. Pkhaladze, J. Christosashvili, A. Khomasuridze, Gynecological Endocrinology, May, 2019, 22:1-4, doi: 10.1080/09513590. 2019.1616689. 'Peculiarities of the formation of the reproductive system in teenage girls whose mothers were treated for polycystic ovaries'. L. Pkhaladze. M. Ushikishvili, J. Christosashvili, A. Khomasuridze, 18th Congress of Human Reproduction, Dublin, Ireland, April 3-6, 2019. 'Probable Mechanism of Development of Centrally Formed Polycystic Ovaries'. M. Freudze, T. Bekaia, N. Khvitia, I. Kvatchadze, L. Pkhaladze, N. Kharadze, World Congress of Regional Anesthesia and Pain, New York, USA, April 19-21, 2018. Anti-Müllerian hormone as a useful marker for evaluating the effectiveness of treatment in patients with polycystic ovary syndrome. L. Asanidze, L. Pkhaladze, J. Christosashvili, L. Barbakadze, 18th World Congress of Endocrinological Gynecology, Florence, Italy, March 07-10, 2018. Treatment of dyspareunia caused by endometriosis with dienogest. L. Pkhaladze, A. Khomasuridze, Z. It's March. World Meeting of Sexual Medicine, 20th European Congress of Sexologists, 21st World Meeting of the International Society of Sexual Medicine, Lisbon, Portugal, February 28 - March 3, 2018. 'Hyperandrogenemia and Lipid Profile', L. Pkhaldze, L. Bregvadze. 12th Congress of the European Association of Gynecologists, Barcelona, Spain, 18-21 October 2017. 'Laparoscopic Ovarian Drilling and Demedullary – Different Surgical Treatment Approaches in Patients with Polycystic Ovarian Disease'. R. Charekishvili, L. Pkhaladze, 17th Congress of Human Reproduction, Rome, Italy, March 15-18, 2017. 'Efficacy of myo-inositol in adolescents with polycystic ovary syndrome.' L. Pkhaladze, L. Barbakadze, N. Kvashilava. 17th Congress of Human Reproduction, Rome, Italy, March 15-18, 2017. 'Myo-inositol in the treatment of polycystic ovary syndrome in adolescents', L. Pkhaladze, L. Barbakadze, N. Kvashilava. International Journal of Endocrinology (International Journal of Endocrinology) 2016, http://dx.doi.org/10.1155/2016/1473612 'Features of non-classical forms of congenital adrenal hyperplasia in adolescent girls', L. Pkhaladze, J. Christosashvili. Gynecological Endocrinology (CIC Edizioni Internationali, Giornale Italiano di Ostetricia e Ginecologia), volume 38 #1, p.182-185, 2016. 'Clinical and hormonal characteristics of ovarian polycystosis developed against the background of adrenogenital syndrome', L. Pkhaladze, A. Khomasuridze, J. Christosashvili, Gynecological Endocrinology (CIC Edizioni Internationali, Giornale Italiano di Ostetricia e Ginecologia), volume 37 #4. pp. 187-189, 2015. 'Evaluation of ovarian reserve to predict the outcome of in vitro fertilization', L. Barbakadze, A. Khomasuridze, J. Christosashvili, L. Pkhaladze. Gynecological Endocrinology (Giornale Italiano di Ostetricia e Ginecologia), Vol. 36, #6, p. 465–467, 2015. 'Evaluation of ovarian reserve in women of late reproductive age treated for polycystic ovary syndrome during adolescence', Ch. Beltadze, L. Barbakadze, A. Khomasuridze, L. Pkhaladze. Gynecological Endocrinology (Giornale Italiano di Ostetricia e Ginecologia), Vol.36, #6, pp.468-471, 'Clinical case description of 46XYY ovotesticular sexual development disorder (true hermaphroditism)', J. Christosashvili, M. Chipashvili, L. Pkhaladze. 'Reproductology' magazine, #1, p.7, 2011. 'Efficacy of cyproterone-acetate or drospirenone on acne pa with late-revealed forms of ndrome', J. Christosashvili, L. Pkhaladze, S. Kvaliashvili, N. Kvashilava. Collection of Abstracts, 13th World Congress on Human Reproduction, Venice, Italy, March 5-8, 2009. 'Information-Education of Youth to Prevent STIs and HIV/AIDS in Patriotic Camps', L. Pkhaladze, V. Baziar, Kh. Kufaradze. The first international conference - 'Reproductive health of young people', collection of scientific papers, pp. 171-173, Tbilisi, May 6-8, 2006. 'The feasibility of using natural progesterone analogues in adolescent girls with various types of reproductive disorders', J. Christosashvili, N. Chofikashvili, L. Pkhaladze, N. the future. The first international conference - 'Reproductive health of young people', collection of scientific works, p. 67-73, Tbilisi, May 6-8, 200 'Forms of adreno-genital syndrome revealed in puberty', L. Pkhaladze, Z. Sabakhtarashvili, J. Kristasashvili. The first international conference - 'Reproductive health of young people', collection of scientific works, p. 59-65. Tbilisi, May 6-8, 2006. 'Efficiency of different doses of cyproterone-acetate for the treatment of hyperandrogenic signs in adolescent girls with late-onset forms of adreno-genital syndrome', J. Kristasashvili, A. Khomasuridze, L. Pkhaladze, S. Kvaliashvili, L. life son Proceedings of the 12th World Congress on Human Reproduction, Volume 2, p. 89-93, Venice, Italy, March 10-13, 2005. 'The role of postpubertal forms of adreno-genital syndrome in the development of reproductive disorders', L. Pkhaladze, Z. Sabakhtarashvili, J. Kristasashvili. The first Georgian international scientific-practical conference - 'Modern approach to gynecological diseases, prevention and treatment', collection of scientific works, pp. 29-31. Tbilisi, March 11, 2005. 'Hyperandrogenemia and lipid metabolism', L. Bregvadze, Z. Sabakhtarashvili, L. Pkhaladze, T. Gulban. 'Medical News of Georgia', #3, p. 33-36. 2001. Adreno-genital syndrome (mild forms), L. Pkhaladze, Z. Sabakhtarashvili, J. Kristasashvili. Textbook, 2005. 'Clinical-hormonal characteristics of ovarian polycystosis in late forms of adrenal cortex dysfunction', L. Pkhaladze. 'Medical News of Georgia', #1, p. 72-75, 2002. 'Mild forms of adrenal cortex hyperplasia in reproductive clinic', L. Pkhaladze, A. Khomasuridze, Z. Sabakhtarashvili, Collection of Abstracts, 9th World Congress of Gynecological Endocrinology, Hong Kong, Volume 15, Issue #5, p. 60, December 2-5, 2001. 'The value of functional hormonal samples in the diagnosis of mild and hidden forms of adreno-genital syndrome', L. Pkhaladze, Z. Sabakhtarashvili, J. Christosashvili. 'Medical Journal of Georgia', #12, p. 60-63 2001. 'Features of mild forms of adreno-genital syndrome in childless women', L. Pkhaladze, Z. Sabakhtarashvili, J. Kristasashvili. 'Medical Journal of Georgia', #12, p. 56-59, 2001. 'Reproductive disorders in late forms of hyperplasia of the adrenal cortex', L. Pkhaladze, Z. Sabakhtarashvili, J. Kristasashvili, N. Tabatadze. Collection of abstracts, XVI World Congress of Obstetrics and Gynecology, Washington, USA, September, 2000. 'Clinico-hormonal features of mild forms of adreno-genital syndrome', L. Pkhaladze, Z. Sabakhtarashvili, J. Christosashvili, N. Tabatadze. Magazine 'Reproductology', #7-8, pp. 19-22, 1999. 'Adreno-genital syndrome', L. Pkhaladze, Z. Sabakhtarashvili, J. Christosashvili, M. Ushikishvili. Magazine 'Reproductology', #3-4, p. 12-15, 1999.",
+                "experienceInfo" : "2006 - degree of academic doctor of medicine; 2002 September – Diploma of Candidate of Medical Sciences (#003294). The degree of candidate of medical sciences for the dissertation 'Clinic and diagnosis of post-pubertal forms of adreno-genital syndrome'; 1993 - 1995 - Diploma - clinical residency, specialty - reproductive medicine, i. Jordan's house Scientific Research Institute of Human Reproduction; 1997 - 2000 - Diploma (AA #0059975), English language translator-referent, English language specialty, I. Chavchavadze Tbilisi State University of Language and Culture; 1986 - 1992 Diploma (AA #816289), qualification – doctor, specialty – medical case, Faculty of Medicine, Tbilisi State Medical Institute. From 2014 to the present day - 'Institute of Reproductology - Khelm. Professor Archil Khomasuridze'. Clinical director, doctor - reproductive-gynecologist; 2006 - until now - 'Georgian Medical Group', director; 1995 - 2014 Until January - i. Jordanian Institute of Human Reproduction, polyclinic department, doctor-reproducologist; 1993 - 1995 - i. Jordanian Institute of Human Reproduction, Department of Reproductive Endocrinology, physician-in-charge; 1992 - 1993 - Republican Central Clinical Hospital, endocrinology department, doctor-intern.",
+                "pedagogyInfo" : "2017-present - i. Javakhishvili Tbilisi State University, Department of Obstetrics-Gynecology and Reproductology, guest lecturer. From 2016 to the present day - 'Institute of Reproductology - Khelm. Professor Archil Khomasuridze' - director of the residency program 'Reproductology', head of modules. 2015-2016 - i. Javakhishvili Tbilisi State University residency program 'Reproductology' - head of modules. 2015 - to date - trainer of the education component of the USAID project - 'Water, Sanitation, Hygiene in Adjara'; 2002 - 2011 - UNFPA/WHO project 'Support for the improvement of reproductive services' - trainer; 2004 - 2006 - Academy of post-graduate education of doctors, qualification courses for doctors in reproductive medicine, lecturer; 2004 - 2006 - Trainings in social marketing and reproductive health for pharmacists, CSMA/USAID, trainer; 2004 - Trainings in peer education for students of Tbilisi State Institutes CSMA/USAID, trainer; 2005 - 2006 - Trainings in peer education for teenagers and young people in patriotic camps CSMA/USAID, trainer; 2005 - up to now - trainings for military personnel - HIV/AIDS and STD prevention, Ministry of Defense of Georgia - US Department of Defense, trainer.",
+                "participentInfo" : "European Association of Gynecologists (ESG); International Society of Endocrinologists-Gynecologists (ISGE); European Society of Sexual Medicine (ESSM); International Federation of Fertility and Sterility (IFFS); Georgian Reproductive Health Association (GARM). 2019 Dublin, Ireland - 18th Congress of the International Academy of Human Reproduction (IAHR), speaker: 'Features of reproductive system formation in adolescent girls whose mothers were treated for polycystic ovary syndrome'. 2018 Lisbon, Portugal – World Meeting of Sexual Medicine, 20th European Congress of Sexologists, 21st World Meeting of the International Society of Sexual Medicine, speaker; 2017 Tbilisi, Georgia – International Medical Conference. Achievements of modern reproduction. The role of surgery. What has changed in a year? speaker; 2017 Barcelona, Spain – 12th Congress of the European Society of Gynecology (ESG), speaker; 2017 Rome, Italy – 17th Congress of the International Academy of Human Reproduction (IAHR), Speaker; 2016 Tbilisi, Georgia - international medical conference, achievements of modern reproductive medicine. The role of surgery. speaker; 2016 Wroclaw, Poland – 8th Albert Netter Days of the International Association of European Gynecologists; 2016 Kyiv, Ukraine - 14th Congress of Obstetricians and Gynecologists of Ukraine, speaker; 2016, Barcelona, Spain – 2nd Congress of Endometriosis and Uterine Pathologies; 2016 Florence, Italy - 17th Congress of the International Society of Gynecology and Endocrinology (ISGE), speaker; 2015 Prague, Czech Republic – 11th Congress of the European Society of Gynecology (ESG), speaker; 2015 Berlin, Germany – 16th Congress of the International Academy of Human Reproduction (IAHR); 2014 Capri, Italy – 7th Albert Netter Days of the International Association of Gynecologists of Europe, 1st European Seminar of the Italian Association of Gynecologists and Endocrinologists; 2014 Rome, Italy - European Society of Reproductive and Embryological (ESHRE) Symposium - 'Polycystic Ovarian'; 2014 Chakvi, Georgia - XXXIV International Medical School-Conference 'Modern Clinical Medicine - Achievements and Latest Technologies', speaker; 2013 Venice, Italy – 15th World Congress on Human Reproduction (IAHR); 2013 Bakuriani, Georgia - XXXIII International Medical School-Conference 'Modern Clinical Medicine - Achievements and Latest Technologies', speaker; 2012 Tbilisi, Georgia - I International Conference of Women's Rehabilitation Association 'Healthy Family, Healthy Pregnant Women, Healthy Offspring'; 2002 Batumi, Georgia - II International Conference 'From Maturity to Old Age', 'Safe Pharmacotherapy of Pregnant Women', speaker; 2012 Maputo, Mozambique - International Military Conference-HIV/AIDS, reporter; 2011 Milan, Italy – 17th International Conference of the European Society of Gynecological Oncology (ESGO); 2005 Tbilisi, Georgia - I International Conference on Obesitology, speaker; 2003 Tbilisi - 1st Georgian international scientific-practical conference 'Modern approach to gynecological diseases, prevention, treatment', speaker."
+            },
+            "staff2" : {
+                "name" : "Tamar",
+                "lastname" : "Diakonidze",
+                "shortInfo" : "Doctor obstetrician-gynecologist, reproductive specialist",
+                "longInfo" : "Doctoral student of I.Javakhishvili Tbilisi State University Faculty of Medicine, 11 years of medical experience, member of Georgian Association of Clinical Hemostasiology and International Association of Thrombosis and Hemostasis.",
+                "experienceInfo" : "From 2017 to the present day - 'Pregnancy and Hemostasis Pathology Center' doctor, obstetrician-gynecologist, reproductive specialist; Curator of the antenatal care program for pregnant women. From 2017 to the present day - consultant doctor - obstetrician-gynecologist, reproductive specialist of the clinic 'Akhali Zivda'. From 2017 to the present day - consultant doctor - obstetrician-gynecologist, reproductive specialist of Lanchkhuti multi-professional clinic 'Health'. From 2014 to the present day, the Institute of Reproduction Professor Archil Khomasuridze' - obstetrician-gynecologist. 2012 - 2014 - treatment-diagnostic center 'Elita Medi', obstetrician-gynecologist.",
+                "participentInfo" : "2018 - International congress 'Current issues of endocrinology' organized by the European Thyroid Association. 2018 - State certificate in 'Reproductology'. 2017 - scientific article In the medical journal of Sechenov Medical University of Moscow - Obstetrics, Gynecology and Reproduction. 'The role of genetic thrombophilia in the development of thromboembolic and obstetric complications. (2017 Vol. 11, N4). 2017 - Certificate of the conference organized by the Reproductive Health Association of Georgia 'Achievements of modern reproductive medicine, the role of surgery, what has changed in the year'. 2017 - 'Therapeutic role of elastic compression in the treatment of venous diseases' - conference certificate. 2017 - Certificate of the II International Congress of Obstetricians-Gynecologists-Perinatologists of the South Caucasus; Speaker on the topic 'Polycystic ovary syndrome and thrombophilia'. 2017 - Certificate of the conference 'Modern Approaches in Emergency Gynecology Practice' organized by Karl Stortz International Training Center. 2017 - 'Clinical aspects of cervical cancer prevention' - seminar. 2016 - 'Prospects of protection of the rights of medical personnel and development of bioethics in Georgia' - conference certificate. 2016 - 'Tbilisi III International Conference on Clinical Hemostasiology' held by the Association of Clinical Hemostasiology of Georgia. 2016 - Certificate of the conference 'Achievements of modern reproductive health, the role of surgery' organized by the Association of Reproductive Health of Georgia. 2016 - 'Days of Ellie and Albert Netter' - certificate of the conference organized by the European Association of Gynecologists. Poland, Wroclaw. 2016 - 'Teacher (trainer) training program certificate' - 'TOT'. 2016 - International seminar 'In Vitro Fertilization Today' organized by 'Archil Khomasuridze Institute of Reproduction'. 2016 - Cambridge University English language FCE exam B1 - level certificate. 2016 - Certificate of scientific multidisciplinary conference 'Obesity - from childhood to old age'. 2015 Prof. Certificate of the International Conference of Doctors dedicated to the 120th anniversary of the birth of Joseph Jordan. 2013 - Certificate 'for activities performed in the medical field' Ministry of Labor, Health and Social Protection of Georgia. 2013 - Vocational rehabilitation program 'Colposcopy' training certificate. 2012 - 'Tbilisi II International Conference on Clinical Hemostasiology' held by the Association of Clinical Hemostasiology of Georgia. 2011 - Conference organized by TSSU Postgraduate Education and Continuous Professional Development Institute, TSSU Department of Obstetrics and Gynecology and United States Agency for International Development: 'Modern Aspects of Effective Perinatal Care and Latest Achievements in Gynecology'. 2011 - A.I.P. 'Combined Contraception Training' conducted within the framework of 'Healthy Life'. 2011 - 'Tbilisi I International Conference on Clinical Hemostasiology' held by the I. Jordania Institute of Reproductive Health, Association of Reproductive Health of Georgia. 2010 - Certificate of successful completion of English within the project of Tbilisi City Hall. 2006 - Certificate of the LXIX Conference of the Ivane Tarkhnishvili Scientific Society of Tbilisi State Medical University, held under the auspices of the European Association of Medical Students, in the surgery section."
+            },
+            "staff3" : {
+                "name" : "Nino",
+                "lastname" : "Datoshvili",
+                "shortInfo" : "Doctor radiologist, sonographer, radiologist",
+                "longInfo" : "In 1995, he graduated from Tbilisi State Medical Institute, Faculty of Medicine. In 1998, he was educated at the Moscow Institute of Obstetrics, Gynecology and Perinatology, where he mastered X-ray diagnostics of uterine tubes. His professional work begins in 1993. Today he is a leading specialist of various clinics. Field of activity: radiology, ultrasound, radiology. Experience of medical activity - 28 years.",
+                "experienceInfo" : "1993-2013 - I. Jordania's house SC Institute of Human Reproduction - endocrinologist; 2001-2013 - I. Jordania's house SC Institute of Human Reproduction - reproductive specialist, physiotherapist; 2011-2013 - I. Jordania's house SC Institute of Human Reproduction - radiologist; 2012-2013 - I. Jordania's house SC Institute of Human Reproduction - obstetrician-gynecologist; 2011-2013 - 'Hera' maternity hospital - obstetrician-gynecologist, radiologist; 2013-2016 - 'Mediklab Georgia' - radiologist; 2013 - 'Ultra Vita' LLC - obstetrician-gynecologist, radiologist; 2014 - 'Institute of Reproductology' Archil Khomasuridze' - doctor-radiologist, reproductive specialist, obstetrician-gynecologist, physiotherapist; 2016 - 'New Hospital' - reproductive specialist; 2016 - 'Inova' - radiologist, obstetrician-gynecologist. 1989-1995 - Tbilisi State Medical Institute. Faculty - Medicine (diploma УВ- N 998485); 1993-1995 - i. Jordan's house SC Institute of Human Reproduction. (educational base) - clinical residency in the specialty of endocrinology; 1998 - Moscow Institute of Obstetrics, Gynecology and Perinatology (Mother and Child Protection Center) - 6-month specialization course in chemopertubation, physiotherapy and x-ray diagnostics of uterine tubes; 1995-2001 - i. Jordanian State Institute of Human Reproduction - postgraduate specialization in reproduction; 2001 - passed the licensing exam in reproduction and received the relevant certificate (series I A 17 N N 007815); 2001 - passed the licensing exam in physiotherapy and received the relevant certificate (series I A 11 N 018332); 2004 - Candidate's thesis in reproductive medicine on the topic - functional state of fallopian tubes during tubo-peritoneal infertility and after laparoscopic treatment; 2010 - passed the licensing exam in medical radiology and received the relevant certificate (series I A 60 NN005776); 2011 - Geojef - (10.03.2011 to 06.06.2011) 3-month course of ultrasonography (Thomas Jefferson Scientific Research Institute, Pennsylvania, Philadelphia) Tbilisi, Georgia branch; 2011 - passed the exam and received the GeoJeff certificate (the basic course of diagnostic ultrasound) 'The General Course in Diagnostic Ultrasound'; 2012 passed the licensing exam in obstetrics and gynecology and received the relevant certificate (series I A 44 N N009765).",
+                "participentInfo": ""
+            },
+            "staff4" : {
+                "name" : "Nana",
+                "lastname" : "Chopikashvili",
+                "shortInfo" : "Child and adolescent gynecologist-endocrinologist",
+                "longInfo" : "Academic Doctor of Medicine, 52 years of medical experience and 24 years of teaching experience",
+                "experienceInfo" : "1970-1971 - St. Tbilisi Republican Physical Culture Dispensary; 1972 -2016 – i. Jordan's house Child and adolescent gynecologist-endocrinologist of the SC Institute of Human Reproduction; From 2017 to the present day - 'Institute of Reproductology - Khelm. Gynecologist-endocrinologist of Archil Khomasuridze' for children and adolescents. 1989 – Tbilisi Vocational Institute – Endocrinology; 1984 – St. Moscow Mother and Child Protection Center - Children's Gynecology Course; 2000 – candidate thesis; 2001 - Tbilisi Vocational Institute - Reproductology."
+            },
+            "staff5" : {
+                "name" : "Vivi",
+                "lastname" : "Bibilashvili",
+                "shortInfo" : "Reproducologist-gynecologist doctor",
+                "longInfo" : "Member of the Reproductive Health Association of Georgia, author of 16 scientific papers, participant of 25 scientific conferences, 54+ years of work experience.",
+                "experienceInfo" : "1969-1971 - St. Ambrolauri Maternity Hospital obstetrician-gynecologist; 1970-1971 - Republican Institute of Obstetrics and Gynecology - scientific worker; 1971-1973 - Mtskheti Maternity Hospital - Obstetrician Gynecologist; 1973-1975 - Republican Institute of Obstetrics and Gynecology - obstetrician-gynecologist; 1976 -2017 - i. Jordan Institute of Human Reproduction - doctor of reproductive medicine. From 2017 to the present day - 'Institute of Reproductology - Khelm. Professor Archil Khomasuridze' - a reproductive gynecologist-gynecologist.",
+                "participentInfo" : "Tbilisi State Institute of Physicians Specialization Obstetrician-Gynecologist; Perinatal S/C Institute named after K. Chachava, qualification-obstetrician-gynecologist; By the Attestation Commission of the Ministry of Republican Protection and Social Security of Georgia - Umagheli category of gynecologist. St. Tbilisi Medical Academy. Specialization – reproductive specialist. Member of the Reproductive Health Association of Georgia. Participation in scientific conferences - 20, abroad - 5."
+            },
+            "staff6" : {
+                "name" : "Revaz",
+                "lastname" : "Tsitsishvili",
+                "shortInfo" : "Doctor mammologist",
+                "longInfo" : "Work experience: 35 years. Date and topic of thesis defense: 1982. - The effectiveness of hormone replacement therapy. Scientific field: reproduction field of practical activity: screening of mammary glands in women, diagnosis and treatment of mastopathy. Surgical treatment of benign tumors.",
+                "experienceInfo" : ""
+            },
+            "staff7" : {
+                "name" : "Ketevan",
+                "lastname" : "Djapharidze",
+                "shortInfo" : "Doctor Therapist"
+            },
+            "staff8" : {
+                "name" : "Nino",
+                "lastname" : "Razhamashvili",
+                "shortInfo" : "Specialty: Reproductology, Obstetrics-Gynecology Scientific degree: Academic Doctor of Medicine Workplace/Position: 'Institute of Reproductology - Assistant Professor Archil Khomasuridze' - reproductive medicine doctor, obstetrician-gynecologist. Field of activity: reproductive medicine, obstetrics and gynecology. Experience of medical activity: since 1994.",
+                "longInfo" : "1988 - 1994 - Tbilisi State Medical Institute, Faculty of Medicine, doctor's qualification. Diploma No. 010762 1995 - 1997 - i. Jordan's house SC Institute of Human Reproduction, clinical residency. 1993 - 1998 - i. Chavchavadze house Tbilisi State Institute of Western Languages and Cultures, Faculty of English Language, translator-referent qualification.",
+                "experienceInfo" : "1994-1995 - i. Jordan's house SC Institute of Human Reproduction - intern; 1995-1997 - i. Jordan's house SC Institute of Human Reproduction, Department of Reproductive Endocrinology, resident doctor; 1997-2013 - i. Jordan's house SC Institute of Human Reproduction, polyclinic department, doctor; From January 14, 2014 - 'Reproductology Institute - signed Professor Archil Khomasuridze' - reproductive medicine doctor, gynecologist. 2013 November - passed the professional rehabilitation program in colposcopy (state accreditation No. PR-19, TSSU certificate in colposcopy, reg. No. 429;) From 2014 - until now - he has been conducting colposcopic examinations of the cervix.",
+                "pedagogyInfo" : "2001-2011 - UNFPA/WHO project 'Support for the improvement of reproductive services' - trainer. 2006 December – Regional training for trainers in the orientation program of the World Health Organization (WHO) – “Health of adults”, for health service providers, certificate UNFPA/RHIYC – trainer. From 2016 to the present day - 'Institute of Reproductology - Khelm. Professor Archil Khomasuridze' is the head of the 'Reproductology' module of the residency program.",
+                "participentInfo" : "2002-present - member of the Reproductive Health Association of Georgia 2007-present - member of the International Federation of Fertility and Infertility (IFFS), author of 5 scientific works, candidate thesis in reproductive medicine on the topic - 'The role and mechanisms of action of progesterone in order to maintain pregnancy in the first trimester'"
+            },
+            "staff9" : {
+                "name" : "Nana",
+                "lastname" : "Levidze",
+                "shortInfo" : "Endocrinologist",
+                "longInfo" : "Ministry of Health and Social Protection of Georgia; State certificate - endocrinology 1984-1990 Saratov State Medical Institute, specialty - medical case. 1992 -2016 LLC endocrinological dispensary; Endocrinologist. 2011-2015 Kutaisi N3 maternity home; Endocrinologist. 2012-2016 Kutaisi N4 mixed polyclinic; doctor-endocrinologist. From 2015 to the present, Archil Khomasuridze Institute of Reproductology - doctor-endocrinologist.",
+                "experienceInfo" : "2016 Teacher (trainer) training program certificate TOT 2016 International seminar In Vitro Fertilization Today 2016 organized by Archil Khomasuridze Institute of Reproductology. Scientific Multidisciplinary Conference Certificate Obesity - From Childhood to Old Age. 2015 Postgraduate education courses organized by the Interfaith Association of Diabetes Mellitus. (PGEC) EASD. 2012 Ministry of Education and Science of Georgia; Professional training and professional orientation trainings: English language, computer skills, professional orientation. 2007 Endocrinology-Metabolism-Dietology Center named after V. Iveriel; Current issues of endocrinology. 2007 Georgian Obesity Research Association of I.Javakhishvili Tbilisi State University Faculty of Medicine; Metabolic syndrome - actuality, epidemiology, prevention and treatment. 2007 Diabetes Center of Georgia; Diabetes and hypertension. 2007 Institute of Medical Education and Continuous Professional Development of Tbilisi State University named after I. Javakhishvili; Current issues of morphological and immunological diagnosis of thyroid gland pathologies. 2006 International School-Seminar of Continuing Medical Education of the European Association of Thyroidologists; thyroidology; Evidence-based diagnosis and treatment. 2006 Work of the II Congress of the Society of Endocrinologists of Georgia named after V. Iverieli; Current issues of endocrinology. 2003 Vskola - conference current issues of clinical and expert medicine; Basic principles of evidence-based medicine and their application in clinical and experimental medicine."
+            },
+            "staff10" : {
+                "name" : "Tinatin",
+                "lastname" : "Phirtskhalava",
+                "shortInfo" : "Doctor reproductive specialist, gynecologist",
+                "longInfo" : "In 1974, he graduated from the medical faculty of Tbilisi State Medical Institute. In 1974-1975 he passed M. Tsinamdashvili's house Internship at the Institute of Cardiology, 1981-1984, I. Jordania's house. Clinical residency at the Institute of Human Reproduction; From 1984 to 2014, I. Jordan's house Since 2014, he has been working as a gynecologist-reproducologist at the SC Institute of Human Reproduction. He is a professional doctor with clinical practice. Experience of medical activity - 37 years, experience of teaching activity - 18 years. In 2002-2011, he was a trainer of the United Nations Population Fund (UNFPA/WHO) project 'Support for the improvement of reproductive services'; From 2015 to the present day, I. Javakhishvili house Tbilisi house Head of the 'Reproductology' module of the university's residential program. Actively participates in local and international conferences, has received international certificates. He is a member of the Georgian Reproductive Health Association and the International Federation of Fertility and Infertility (IFFS). Field of activity: reproductive medicine, gynecology, gynecological endocrinology. Experience of medical activity: since 1975",
+                "experienceInfo" : "1975-1976 - Rustavi emergency service - doctor therapist. 1976-1981 - Mukhadze Blood Transfusion Institute - doctor-endocrinologist. 1984-2014 - i. Jordan's house SC Institute of Human Reproduction - doctor - reproductive specialist, obstetrician - gynecologist. From 2014 to the present day - 'Institute of Reproductology - Khelm. Archil Khomasuridze' - reproductive medicine doctor, obstetrician-gynecologist.",
+                "pedagogyInfo" : "2004-2007 - Dental Institute at the Academy of Physical Education and Sports of Georgia - lecturer. Specialization - Reproductology - 1998 Specialization - Obstetrics - Gynecology - 2012"
+            },
+            "staff11" : {
+                "name" : "Irine",
+                "lastname" : "Marghania",
+                "shortInfo" : "Specialty: reproductive medicine, oncology - mammology",
+                "longInfo" : "Education: 1972 - 1978 Tbilisi State Medical Institute, Faculty of Medicine, doctor's qualification; 1978 - 1979 Internship at the S/K Institute of Therapy with specialty - 'Therapy'. Scientific degree: Acad of Medicine. Dr. 1988 Candidate's thesis on the topic 'Peculiarities of the content of some neuroamines in patients suffering from hyperprolactinemia' (Diploma MD No. 034378). Place of work: 'Archil Khomasuridze Institute of Reproduction' from 2014 to present - doctor - mammologist. Professional activity: 1980 - 1996. i. Jordan's house SC Institute of Human Reproduction - doctor; 1996 - to date i. Jordan's house SC Institute of Human Reproduction - physician - mammologist. Narrow specialization: reproduction; 2001 - State certificate in the specialty 'Reproductology' (No. 189450) Association membership: Member of the Reproductive Health Association of Georgia from 2002 to present; Pedagogical experience: 2002-2011. UNFPA/WHO project 'Support for the improvement of reproductive services' - trainer. Scientific works: author of 10 scientific works.",
+                "experienceInfo" : ""
+            },
+            "staff12" : {
+                "name" : "Giorgi",
+                "lastname" : "Nadareishvili",
+                "shortInfo" : "Specialty: urology-andrology",
+                "longInfo" : "Education and qualification 'Archil Khomasuridze Institute of Reproductive Medicine' from 2013 to now - doctor - urologist - andrologist. 2012-2013 St. Kyiv, medical center 'Synergo Med' doctor - urologist - andrologist. 2011-2012 St. Kyiv, medical center 'Panacea' doctor - urologist - andrologist. 2011-2012 St. Kiev, medical center 'Veles' doctor - urologist - andrologist. 2007-2011 St. Cherkasy, medical center 'Medgaranti', doctor - urologist - andrologist, computer diagnostics. 1996-2006 Medicine center 'NLS' doctor - urologist - andrologist. 1999-2000 St. Ankara, medical center 'Hasal Medical', doctor - urologist - andrologist, computer diagnostics. 1987-1999 St. Tbilisi, 4th division polyclinic, doctor - urologist - andrologist. 1983-1987 St. Zhdanov, MIA and 3rd polyclinic, doctor surgeon - urologist. 1973-1983 St. Zhdanov, 3rd hospital, naval doctor - surgeon. 1967-1973 St. Tver, Kalinin State Medical Institute. Trainings, certificates 2016 'Teachers (trainers) training program certificate' - 'TOT' 2009 Certificate of the National Medical Academy of Ukraine. 2009 St. Kiev, P.L. Shupika National Medical Academy of post-graduate qualification education - urology. 1997 St. Moscow, Russian Medical Academy of Postgraduate Education, Amsat base - non-linear diagnosis by Foley's method. 1992-1993 St. Tbilisi, SC Institute of Experimental and Clinical Therapy, laser therapy. 1989 St. Leningrad, State Institute of Physicians, Andrology-Sexopathology. 1989 St. Tbilisi, Professional Institute of Physicians, Urology. 1984 St. Donetsk, Medical Institute, Urology.",
+                "experienceInfo" : ""
+            },
+            "staff13" : {
+                "name" : "Nana",
+                "lastname" : "Kvashilava",
+                "shortInfo" : "Specialty: Endocrinology Academic Degree: Academic Doctor of Medicine Workplace/Position: 'Institute of Reproductology - Assistant Head of Laboratory Service of Archil Khomasuridze'. Field of activity: laboratory medicine, endocrinology. Experience of medical activity: since 1975",
+                "longInfo" : "1973 – Tbilisi State Medical Institute, Faculty of Medicine; 1974 – St. Poti hospital, internship in therapy; 1975 – Institute of Physicians, Clinical-Laboratory Diagnostics; 1978 – Moscow Central Institute of Physicians, specialization courses; 1991 – Tbilisi Professional Institute of Doctors, training course in endocrinology.",
+                "experienceInfo" : "1975-1987 - JSC Institute of Health Care Therapy of Georgia, junior staff member of hemostasis laboratory and endocrinology department; 1987-2007 - I. Jordania Institute of Human Reproduction, scientist-collaborator of the laboratory of hormonal diagnostics; 2007-2014 - i. Jordanian Institute of Human Reproduction, Head of the Hormonal Laboratory; From 2014 to the present day, 'Institute of Reproductology - Khelm. Professor Archil Khomasuridze' - head of the laboratory service.",
+                "pedagogyInfo" : "",
+                "participentInfo" : "From 2002 to the present day - a member of the Reproductive Health Association of Georgia. 40 participation in international congresses and conferences. Author of 10 scientific works, including 4 published in journals with impact factor."
+            },
+            "staff14" : {
+                "name" : "Liudmila",
+                "lastname" : "Barbaqadze",
+                "shortInfo" : "Doctor obstetrician-gynecologist, reproductive specialist",
+                "longInfo" : "2015 academic degree of doctor (Ph.D) 1988-1997 St. 14th secondary school of Kutaisi (Russian sector). 1997-2000 Kutaisi branch of State Medical College of Tbilisi State Medical University; Specialty: Nursing. 2000-2005 Faculty of Medicine of Tbilisi State Medical University. general profile doctor; 2005-2010 Residency at Tbilisi State Medical University, specializing in reproductive medicine. 2010 State certificate in reproduction. 2012. Abbreviated course of residency at Tbilisi State Medical University. Specialty: Obstetrics and Gynecology. 2012 State Certificate in Obstetrics and Gynecology; 2012-2015 Tbilisi I. Javakhishvili house State University Ph.D. 2005 - Computer programs certificate (CTC center); 2011 - Ultrasound Diagnostics Training Center 'Geof' - a branch of the Jefferson Ultrasound Research and Training Institute. Certificate - ultrasound physics and instruments, working principles, ultrasound diagnostics in obstetrics and gynecology; 2013 - Institute of Continuous Professional Development of Postgraduate and Medical Education of Tbilisi State Medical University. National Screening Center. Colposcopy certificate. 2015 w - Reproductive Medicine Center 'SISMER' - Italy, St. Bologna. Internship certificate in artificial in vitro fertilization. 2016 w - Hadassah University Hospital, Department of Obstetrics and Gynecology, Department of Artificial Fertilization 'In Vitro' - Israel, Jerusalem. Internship certificate in artificial in vitro fertilization.",
+                "experienceInfo" : "2006-2007 - m. Sharashidze Medical Center, Department of Obstetrics and Gynecology. practical and theoretical work provided by the residency program; 2007-2008 - Endocrinology Clinic 'Enmeditsi'. practical and theoretical work provided by the residency program; 2008-2010 - i. Jordan's house SC Institute of Human Reproduction. practical and theoretical work provided by the residency program (including laparoscopy in gynecology - assistance); 2010-2011 - i. Jordan's house Doctor-assistant of the Invitro Fertilization Department of the SC Institute of Human Reproduction; 2011-2013 - i. Jordan's house Reproductologist, obstetrician-gynecologist of the polyclinic department of the Institute of Human Reproduction; From 13.01.2014 to the present day - Archil Khomasuridze Institute of Reproductology, doctor of reproductive medicine, obstetrician-gynecologist; 2016 - from - Iv. Javakhishvili Tbilisi State University's residency program in reproductive medicine - head of the module; From 2016 to the present, in vitro fertilization and reproductive health clinic, reproductive medicine doctor, obstetrician-gynecologist; From 2016 - IV. Assistant Professor of the Department of Reproductology and Obstetrics and Gynecology of Javakhishvili Tbilisi State University.",
+                "pedagogyInfo" : "Author of up to fifteen scientific papers; Scientific conferences: participant-speaker of more than ten scientific conferences;"
+            },
+            "staff15" : {
+                "name" : "Ekaterine",
+                "lastname" : "Lezhava",
+                "shortInfo" : "Doctor obstetrician-gynecologist",
+                "longInfo" : "1992-1999 - St. Tbilisi, Medical Institute 'Doctor of the Future'; 1999-2003 - St. Moscow 'Медицинский женский центр' junior doctor; 2003-2005 - St. Moscow «medicinskaya akademiya im. Cechenova» clinical residency in obstetrics-gynecology specialty; 2010 – i. Jordan's house SC Institute of Human Reproduction. assimilation of modern methods of diagnosis and treatment of female reproductive function disorders; 2011 - Tbilisi JSC 'Chachava Clinic' consulting diagnostic center, colposcopy course. 2006 – Russian Federation specialist certificate A № 2888540 obstetrician-gynecologist; 2008 – State certificate of Georgia (Series I 44 001834) obstetrician-gynecologist.",
+                "experienceInfo" : "2003-2005 - St. Moscow Maternity Hospital No. 4, obstetrician-gynecologist; 2011-2119 – St. Batumi 'Sea Hospital' obstetrician-gynecologist; 2013-2014 - St. Batumi 'Referral hospital', obstetrician-gynecologist; 2019-2021 - St. Batumi clinic 'Enmeditsi' obstetrician-gynecologist; 2021 - LLC 'TMMG' - Tbilisi Multiprofile Medical Group - founder; From 2021 to today - the Institute of Reproduction of Prof. Jordania and Prof. Khomasuridze. Institute Mt. Manager, obstetrician-gynecologist."
+            },
+            "staff16" : {
+                "name" : "Nino",
+                "lastname" : "Davidova",
+                "shortInfo" : "Doctor obstetrician-gynecologist, reproductive specialist",
+                "longInfo" : "2014-2017 - 2014-2017 - Institute of Reproductology - signed Professor Archil Khomasuridze, resident doctor. 2011-2013 – certificate (№006710) – clinical residency, specialty – obstetrics and gynecology, St. Kharkiv, Ukraine. 2005-2011 – diploma (№000086) qualification-graduated physician, specialty-medical case, Faculty of Medicine, Tbilisi State Medical Institute.",
+                "experienceInfo" : "2014 July 25 - state certificate (Ia 44 014449), specialty - obstetrics-gynecology. 2017 December 27 - state certificate (IIa 17 018965), specialty - reproduction. 2017 From December until now - 'Institute of Reproductology - Khelm. Archil Khomasuridze' doctor - reproductive specialist-obstetrician-gynecologist. 2014 - 2017 - 'Reproductology Institute' Archil Khomasuridze' resident doctor. 2014 - 2017 - 'Golden Fleece - XXI Century' Ltd. (House of Health) - obstetrician-gynecologist. 2015-2016 - Akhaltsikhe LLC clinic 'Imedi' - obstetrician-gynecologist.",
+                "pedagogyInfo" : "",
+                "participentInfo" : "2017 Tbilisi, Georgia - International Medical Conference - 'Achievements of modern reproductive medicine'. The role of surgery. What has changed in the year'. 2017 Tbilisi, Georgia - Tbilisi III International Conference on Clinical Hemostasiology - Current problems of hemostasiology in clinical medicine. Recent data on thrombosis and hemostasis'. 2016 Tbilisi, Georgia - international conference 'Achievements of modern reproductive medicine, role of surgery'. 2016 Tbilisi, Georgia - seminar - 'The role of colposcopy in the prevention of cervical cancer'. 2015 Tbilisi, Georgia - Seminar - 'Clinical aspects of prevention, diagnosis and treatment of cervical cancer'. 2013 Kyiv, Ukraine - Seminar - 'Actual Issues of Endocrine Gynecology'. 2013 Kharkov, Ukraine - Scientific-practical conference of gynecologists - 'Immunotherapy of chronic inflammatory diseases of internal genital organs of women'."
+            },
+            "staff17" : {
+                "name" : "Mariam",
+                "lastname" : "Tophuria",
+                "shortInfo" : "Reproducologist doctor",
+                "longInfo" : "",
+                "experienceInfo" : ""
+            }
+        }
+    },
+    "AboutPage" : {
+        "p1" : "Archil Khomasuridze Institute of Reproductology started functioning under the mentioned name on January 14, 2014. It was created by former employees of the Jordan Institute. The founder and inspiration of the new institute is Professor Archil Khomasuridze, President of the Reproductive Health Association of Georgia, Ivane Javakhishvili, Tbilisi. Head of the Department of Reproductology and Obstetrics-Gynecology of the Faculty of Medicine of the State University, full professor, member of the International Academy of Reproductologists, academician of the Academies of Natural Sciences, Medical-Biological and Medical-Social Sciences. His name is associated with a number of progressive initiatives in Georgian medicine - introduction of contraception, laparoscopic, in-vitro fertilization technologies and many others.",
+        "p2" : "He is the founder of the field of reproductive medicine in Georgia. With the efforts of Professor Archil Khomasuridze and his comrades, since 1997, Georgia has become the first country in the world, where reproductive medicine was officially established as an independent medical discipline. A network of reproductive services was created across the country, certification and licensing of doctors and medical institutions in reproductive medicine began. The first specialized council for the defense of theses in reproductology was created and began its work, the publication of the magazine 'Reproductology' began. The first reproductive chair in history was established, which is headed by Prof. A. Khomasuridze. Under his leadership, 16 doctoral theses and 94 candidate's theses were defended, more than 2000 scientific works were published, the national reproductive health program was prepared and many others. Since 1996, A. Khomasuridze and his team were the main implementers of the United Nations Population Fund (UNFPA) projects in the field of reproductive health. Prof. Archil Khomasuridze was in 1984-2012 Ioseb Jordania's house. General Director of S/K Institute. Prof. The results of the events planned by Archil Khomasuridze and his comrades and implemented with their direct participation were reflected in the significant improvement of the demographic situation in the country.",
+        "p3" : "The political events that have developed in the country in recent years, including the negative impact of commercialization on medicine, led to the necessity of opening a new Institute of Reproductology, which currently continues the work started by Ioseb Jordania and his ideology under the name of Archil Khomasuridze Institute of Reproductology at a new address.",
+        "p4" : "The institute is staffed by an intelligent team with 55 years of invaluable experience in gynecological endocrinology and infertility treatment. Famous doctors, reproductive-gynecologists, academic doctors of medicine: Lida Pkhaladze, Lali Pkhaladze, Tinatin Firtskhalava, Nino Rajamashvili, Nino Datoshvili, Luda Barbakadze, Tamar Diakonidze, mammologist-Revaz Tsitsishvili, urologist-andrologists Giorgi Nadareishvili, Aleksandre Khelaia, sexologist- Prof. Zurab Marshania, embryologist - Tinatin Supatashvili and others.",
+        "p5" : "The laboratory service is headed by Med. Acad. Dr. Nana Kvashilava, in 2007-2013 - the head of the Hormonal Laboratory of the Jordan Institute, who, together with his employees, continues to work in laboratory diagnostics with great responsibility and high professionalism. Complete hormonal, biochemical, virological, clinical, hemostasiological, immunological research is carried out using modern high-tech methods.",
+        "p6" : "The radiological service of the institute is headed by a doctor - radiologist, gynecologist, physiotherapist, med. Acad. Dr. Nino Datoshvili. Full ultrasound examinations are performed - genitals, abdominal cavity, urinary system, thyroid gland, mammary gland, adrenal gland. The anatomical and functional state of the uterus and uterine tubes is determined by radiological, ultrasonographic, computer chemopertubation methods. In our institute, physioprocedures and therapeutic laser are actively used in chronic inflammatory processes of the uterus, fallopian tubes, ovaries, as well as hypofunction of the ovaries and endometrial failure, as an effective auxiliary method of treatment.",
+        "p7" : "The institute is Ivane Javakhishvili's house. The clinical base of the Department of Repro-ductology and Obstetrics-Gynecology of the Faculty of Medicine of Tbilisi State University, where theoretical and practical training of students takes place. Also, only with us is the residency program in reproductive medicine - a full course (3 years) and a shortened course (1.5 years) for the training of obstetricians and gynecologists.",
+        "p8" : "The institute's employees are members of the European Society of Obstetricians and Gynecologists, the International Association of Gynecologists and Endocrinologists, the International Society of Fertility and Infertility, the European Association of Reproductive Health and Embryologists. They regularly participate in international conferences and congresses, including as a speaker.",
+        "p9" : "The main principles of activity of the Archil Khomasuridze Institute of Reproductology are: first of all, protection of the interests of patients, professionalism, kindness, good faith and honesty. His priority is to educate worthy future generations of doctors.",
+        "p10" : "Archil Khomasuridze Institute of Reproductology continues its activities in the wake of modern achievements of world medicine for your health and the happy future of your families."
+    },
+    "ContactPage" : {
+        "streetName" : "Tbilisi, Tevdore Mghvdeli St 13, VII Floor"
+    },
+    "Footer" : {
+        "box1" : {
+            "link1": "Services",
+            "link2": "Referral Assistance",
+            "link3": "Diabetes Assistance",
+            "link4": "Residency"
+        },
+        "box2" : {
+            "link1": "About Us",
+            "link2": "Review",
+            "link3": "Founding",
+            "link4": "Development"
+        },
+        "box3" : {
+            "link1": "Contact",
+            "link2": "Location",
+            "link3": "Call Us"
+        }
+    },
+    "ResidencyPage" : {
+        "p1" : "A residency program in 'Reproductology' is implemented in the institute.",
+        "p2" : "The goal of the residency program is to provide the resident with knowledge about the age-related changes in the male and female reproductive system, normal variants of its functioning, and pathology.",
+        "p3" : "Based on the foundations of evidence-based medicine, following ethical principles, develop the ability to develop adequate tactics for counseling, disease treatment and prevention, and to determine reproductive prognosis.",
+        "p4" : "To develop the skills of conducting appropriate diagnostic and therapeutic manipulations (conservative and surgical methods of treatment, birth control methods).",
+        "p5" : "The goal of the program is to acquire the knowledge and skills necessary for a practicing reproductive specialist.",
+        "p6" : "The institute is included in residency program of the Faculty of Medicine of Tbilisi State University and presents its affiliated base, where theoretical and practical training of residents takes place.",
+        "p7" : "A one-year training program for obstetricians and gynecologists is also implemented.",
+        "p8" : "Contact us for more information."
+    },
+    "ErrorPage" : {
+        "p1" : "Page Not Found",
+        "p2" : "Return to homepage",
+        "p3" : "or click",
+        "p4" : "Home"
+    }
+
+}

@@ -1,0 +1,52 @@
+@font-face {
+  font-family: 'glaho';
+  src: url(fonts/bpg_glaho_sylfaen.ttf) format('truetype');
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+:root {
+  --Silver-Chalice: #AEAEAE;
+  --Catalina-Blue: #073E73;
+  --Totem-Pole: #9D0B14;
+  --Totem-Pole-Pale: #b22630;
+  --Background-Lightblue: #f1f6fa;
+  --Hover-Lightblue: #d2e4f2;
+  --Hover-Border: #a8cbe6;
+
+}
+
+html {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family:  'glaho', Arial, Helvetica, sans-serif;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: var(--Hover-Lightblue);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: var(--Catalina-Blue);
+}
+
+
+
+
+
