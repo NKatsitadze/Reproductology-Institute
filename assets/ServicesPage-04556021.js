@@ -1,119 +1,92 @@
-import styled from "styled-components";
+import{s,a as r,j as e,u as a,P as c,w as o,x as l,y as n,L as t}from"./index-15372c02.js";const d="/repro/assets/ardi-1e8c710c.png",m="/repro/assets/tbc-3b0a1550.png",g="/repro/assets/qartu-5a390cd4.png",x="/repro/assets/Alfa-d6c01d6f.jpg",h="/repro/assets/igg-3a0681c9.png",p="/repro/assets/unison-72aeb59c.jpg",b="/repro/assets/psp-7d9ad63a.png",v=function(){return r(u,{className:"insurance-section",children:[e("span",{}),r("div",{className:"insurance-box",children:[e("div",{className:"logo-box",children:e("img",{className:"logo",src:d,alt:"Insurance company logo"})}),e("div",{className:"logo-box",children:e("img",{className:"logo",src:m,alt:"Insurance company logo"})}),e("div",{className:"logo-box",children:e("img",{className:"logo",src:g,alt:"Insurance company logo"})}),e("div",{className:"logo-box",children:e("img",{className:"logo",src:x,alt:"Insurance company logo"})}),e("div",{className:"logo-box",children:e("img",{className:"logo",src:h,alt:"Insurance company logo"})}),e("div",{className:"logo-box",children:e("img",{className:"logo",src:p,alt:"Insurance company logo"})}),e("div",{className:"logo-box",children:e("img",{className:"logo",src:b,alt:"Insurance company logo"})})]})]})},u=s.section`
+    margin: 2rem 0;
 
-import { Link } from "react-router-dom";
+    .insurance-box {
+        display: grid;
+        grid-template-columns: repeat(7, 1fr);
+        justify-content: space-between;
+        position: relative;
+        border: 2px solid var(--Hover-Lightblue);
+        border-radius: 0.3rem;
+        padding: 1rem 2.5rem;
 
-import InsuranceSection from "../components/InsuranceSection";
+        .logo-box {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            padding: 0.3rem 0.5rem;
+            
+            &:hover .logo {
+                transform: scale(1.05);
+                filter: grayscale(0%);
+                -webkit-filter: grayscale(0%);
+            }
+            
+            .logo {
+                transition: all 0.15s;
+                width: 10rem;
+                filter: grayscale(100%);
+                -webkit-filter: grayscale(100%);
+            }
+        }
+    }
 
-import PregnancyPic from '../assets/services/pregnancy.webp';
-import ginecologyPic from '../assets/services/ginecology.webp';
-import endocrinologyPic from '../assets/services/endocrinology.webp';
-import researchPic from '../assets/services/research.webp';
-import aid from '../assets/services/gov.png';
-import learning from '../assets/services/learning.webp';
-import syndrome from '../assets/services/syndrome.webp';
-import kidPic from '../assets/services/kids.webp';
+            // Below 1650px
+            @media(max-width: 103.125em) {
+                .insurance-box {
+                    .logo-box {
+                        .logo {
+                            width: 8rem;
+                        }
+                    }
+                }
+            }
+                    // Below 1400px
+                    @media(max-width: 87.5em) {
+                        .insurance-box {
+                            .logo-box {
+                                .logo {
+                                    width: 7rem;
+                                }
+                            }
+                        }
+                    }
+                            // Below 1250px
+                            @media(max-width: 78.125em) {
+                                .insurance-box {
+                                    grid-template-columns: repeat(4,1fr);
+                                    .logo-box {
+                                        .logo {
+                                            width: 8rem;
+                                        }
+                                    }
+                                }
+                            }
+                            // Below 650px
+                            @media(max-width: 40.625em) {
+                                .insurance-box {
+                                    grid-template-columns: repeat(3,1fr);
+                                }
+                            }
+                                    // Below 520px
+                                    @media(max-width: 32.5em) {
+                                        .insurance-box {
+                                            grid-template-columns: repeat(2,1fr);  
+                                        }
+                                    }
 
-import { useTranslation } from "react-i18next";
-
-const ServicesPage = function(){
-
-    const { t } = useTranslation();
-
-    return(
-        <PageWrap>
-            <div className="center-container">
-             <div className="ui-box">
-             <div className="service-box">
-                    <img className="service-img aid-fix fit" src={aid} alt="service image" />
-                    <ul className="list-box">
-                        <li className="bold">{t("ServicesPage.aidBox.title")}</li>
-                        <li>{t("ServicesPage.aidBox.p1")}</li>
-                        <li>{t("ServicesPage.aidBox.p2")}</li>
-                        <li>{t("ServicesPage.aidBox.p3")}</li>
-                        <li>{t("ServicesPage.aidBox.p4")}</li>
-                        <li>{t("ServicesPage.aidBox.p5")}</li>
-                    </ul>
-                </div>
-
-              <div className="service-box">
-                    <img className="service-img" src={PregnancyPic} alt="service image" />
-                    <ul className="list-box">
-                        <li className="bold">{t("ServicesSection.title1")}</li>
-                        <li>{t("ServicesSection.1box1")}</li>
-                        <li>{t("ServicesSection.1box2")}</li>
-                        <li>{t("ServicesSection.1box3")}</li>
-                    </ul>
-                </div>
-                <div className="service-box">
-                    <img className="service-img" src={endocrinologyPic} alt="service image" />
-                    <ul className="list-box">
-                        <li className="bold">{t("ServicesSection.title2")}</li>
-                        <li>{t("ServicesSection.2box1")}</li>
-                        <li>{t("ServicesSection.2box2")}</li>
-                        <li>{t("ServicesSection.2box3")}</li>
-                        <li>{t("ServicesSection.2box4")}</li>
-                        <li>{t("ServicesSection.2box5")}</li>
-                    </ul>
-                </div>
-                <div className="service-box">
-                    <img className="service-img" src={ginecologyPic} alt="service image" />
-                    <ul className="list-box">
-                        <li className="bold">{t("ServicesSection.title3")}</li>
-                        <li>{t("ServicesSection.3boxExtra1")}</li>
-                        <li>{t("ServicesSection.3boxExtra2")}</li>
-                        <li>{t("ServicesSection.3box2")}</li>
-                        <li>{t("ServicesSection.3boxExtra3")}</li>
-                        <li>{t("ServicesSection.3box1")}</li>
-                        <li>{t("ServicesSection.3box3")}</li>
-                        <li>{t("ServicesSection.3box4")}</li>
-                    </ul>
-                </div>
-                <div className="service-box">
-                    <img className="service-img" src={researchPic} alt="service image" />
-                    <ul className="list-box">
-                        <li className="bold">{t("ServicesPage.diagnosis.title")}</li>
-                        <li>{t("ServicesPage.diagnosis.p1")}</li>
-                        <li>{t("ServicesPage.diagnosis.p2")}</li>
-                        <li>{t("ServicesPage.diagnosis.p3")}</li>
-                        <li>{t("ServicesPage.diagnosis.p4")}</li>
-                        <li>{t("ServicesPage.diagnosis.p5")}</li>
-                        <li>{t("ServicesPage.diagnosis.p6")}</li>
-                        <li>{t("ServicesPage.diagnosis.p7")}</li>
-                    </ul>
-                </div>
-                <div className="service-box">
-                    <img className="service-img" src={syndrome} alt="service image" />
-                    <ul className="list-box">
-                        <li className="bold">{t("ServicesPage.syndrom.title")}</li>
-                        <li>{t("ServicesPage.syndrom.p1")}</li>
-                        <li>{t("ServicesPage.syndrom.p2")}</li>
-                        <li>{t("ServicesPage.syndrom.p3")}</li>
-                    </ul>
-                </div>
-                <div className="service-box">
-                    <img className="service-img" src={kidPic} alt="service image" />
-                    <ul className="list-box">
-                        <li className="bold">{t("ServicesPage.kids.title")}</li>
-                    </ul>
-                </div>
-
-                <Link className="service-box" to='/repro/residency'>
-                    <img className="service-img" src={learning} alt="service image" />
-                    <div className="list-box">
-                        <span className="bold">{t("ServicesPage.residency.title")}<span className="arrow">&#187;</span></span>
-                    </div>
-                </Link>
-
-             </div>
-                <InsuranceSection />
-            </div>
-        </PageWrap>
-    )
-}
-
-export default ServicesPage;
-
-const PageWrap = styled.div`
+                                            // Below 400px
+                                            @media(max-width: 25em) {
+                                                .insurance-box {
+                                                    .logo-box {
+                                                        .logo {
+                                                            width: 6rem;
+                                                        }
+                                                    }
+                                                }
+                                            }
+`,S="/repro/assets/gov-84ff0c73.png",w="/repro/assets/learning-ab28894d.webp",f="/repro/assets/syndrome-0b25ce3a.webp",N="/repro/assets/kids-f878137a.webp",B=function(){const{t:i}=a();return e(y,{children:r("div",{className:"center-container",children:[r("div",{className:"ui-box",children:[r("div",{className:"service-box",children:[e("img",{className:"service-img aid-fix fit",src:S,alt:"service image"}),r("ul",{className:"list-box",children:[e("li",{className:"bold",children:i("ServicesPage.aidBox.title")}),e("li",{children:i("ServicesPage.aidBox.p1")}),e("li",{children:i("ServicesPage.aidBox.p2")}),e("li",{children:i("ServicesPage.aidBox.p3")}),e("li",{children:i("ServicesPage.aidBox.p4")}),e("li",{children:i("ServicesPage.aidBox.p5")})]})]}),r("div",{className:"service-box",children:[e("img",{className:"service-img",src:c,alt:"service image"}),r("ul",{className:"list-box",children:[e("li",{className:"bold",children:i("ServicesSection.title1")}),e("li",{children:i("ServicesSection.1box1")}),e("li",{children:i("ServicesSection.1box2")}),e("li",{children:i("ServicesSection.1box3")})]})]}),r("div",{className:"service-box",children:[e("img",{className:"service-img",src:o,alt:"service image"}),r("ul",{className:"list-box",children:[e("li",{className:"bold",children:i("ServicesSection.title2")}),e("li",{children:i("ServicesSection.2box1")}),e("li",{children:i("ServicesSection.2box2")}),e("li",{children:i("ServicesSection.2box3")}),e("li",{children:i("ServicesSection.2box4")}),e("li",{children:i("ServicesSection.2box5")})]})]}),r("div",{className:"service-box",children:[e("img",{className:"service-img",src:l,alt:"service image"}),r("ul",{className:"list-box",children:[e("li",{className:"bold",children:i("ServicesSection.title3")}),e("li",{children:i("ServicesSection.3boxExtra1")}),e("li",{children:i("ServicesSection.3boxExtra2")}),e("li",{children:i("ServicesSection.3box2")}),e("li",{children:i("ServicesSection.3boxExtra3")}),e("li",{children:i("ServicesSection.3box1")}),e("li",{children:i("ServicesSection.3box3")}),e("li",{children:i("ServicesSection.3box4")})]})]}),r("div",{className:"service-box",children:[e("img",{className:"service-img",src:n,alt:"service image"}),r("ul",{className:"list-box",children:[e("li",{className:"bold",children:i("ServicesPage.diagnosis.title")}),e("li",{children:i("ServicesPage.diagnosis.p1")}),e("li",{children:i("ServicesPage.diagnosis.p2")}),e("li",{children:i("ServicesPage.diagnosis.p3")}),e("li",{children:i("ServicesPage.diagnosis.p4")}),e("li",{children:i("ServicesPage.diagnosis.p5")}),e("li",{children:i("ServicesPage.diagnosis.p6")}),e("li",{children:i("ServicesPage.diagnosis.p7")})]})]}),r("div",{className:"service-box",children:[e("img",{className:"service-img",src:f,alt:"service image"}),r("ul",{className:"list-box",children:[e("li",{className:"bold",children:i("ServicesPage.syndrom.title")}),e("li",{children:i("ServicesPage.syndrom.p1")}),e("li",{children:i("ServicesPage.syndrom.p2")}),e("li",{children:i("ServicesPage.syndrom.p3")})]})]}),r("div",{className:"service-box",children:[e("img",{className:"service-img",src:N,alt:"service image"}),e("ul",{className:"list-box",children:e("li",{className:"bold",children:i("ServicesPage.kids.title")})})]}),r(t,{className:"service-box",to:"/repro/residency",children:[e("img",{className:"service-img",src:w,alt:"service image"}),e("div",{className:"list-box",children:r("span",{className:"bold",children:[i("ServicesPage.residency.title"),e("span",{className:"arrow",children:"»"})]})})]})]}),e(v,{})]})})},y=s.div`
     margin-top: 5.8rem;
     width: 100%;
 
@@ -325,4 +298,4 @@ const PageWrap = styled.div`
                                                                             }
                                                                         }
                                                                     }
-`
+`;export{B as default};

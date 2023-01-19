@@ -1,64 +1,4 @@
-import styled from "styled-components";
-
-import image from '../assets/staff/ArchilAbout.webp';
-import banner from '../assets/baneriFin.png';
-import tsu from '../assets/tsu.webp';
-
-import { useTranslation } from "react-i18next";
-
-const AboutPage = function(){
-
-    const { t } = useTranslation();
-
-    const pageContent = {
-        start1: `${t("AboutPage.p1")}`,
-        start2:`${t("AboutPage.p2")}`,
-        bannerContent: `${t("AboutPage.p3")}`,
-        expContent: `${t("AboutPage.p4")}`,
-        labContent: `${t("AboutPage.p5")}`,
-        radContent: `${t("AboutPage.p6")}`,
-        facultyContent: `${t("AboutPage.p7")}`,
-        endingContent3: `${t("AboutPage.p8")}`,
-        endingContent2: `${t("AboutPage.p9")}`,
-        endingContent1: `${t("AboutPage.p10")}`,
-    }
-
-    return(
-        <AboutWrap>
-          <div className="center-box">
-                <div className="start-box">
-                    <div className="flex">
-                        <img className="banner" src={image} alt="banner" />
-                        <p>{pageContent.start1}</p>
-                    </div>
-                    <p>{pageContent.start2}</p>
-                </div>
-                <div className="banner-box">
-                    <p>{pageContent.bannerContent}</p>
-                    <img className="banner" src={banner} alt="banner" />
-                </div>
-                <p>{pageContent.expContent}</p>
-                <br />
-                <p>{pageContent.labContent}</p>
-                <br />
-                <p>{pageContent.radContent}</p>
-                <div className="faculty">
-                        <img className="logo" src={tsu} alt="banner" />
-                        <p>{pageContent.facultyContent}</p>
-                </div>
-                <p>{pageContent.endingContent3}</p>
-                    <br />
-                <p>{pageContent.endingContent2}</p>
-                    <br />
-                <p>{pageContent.endingContent1}</p>
-          </div>
-        </AboutWrap>
-    )
-}
-
-export default AboutPage;
-
-const AboutWrap = styled.section`
+import{u as a,j as e,a as r,s as o}from"./index-15372c02.js";const i="/repro/assets/ArchilAbout-8b83074d.webp",l="/repro/assets/baneriFin-8b9ac475.png",d="/repro/assets/tsu-0dc49926.webp",b=function(){const{t:n}=a(),t={start1:`${n("AboutPage.p1")}`,start2:`${n("AboutPage.p2")}`,bannerContent:`${n("AboutPage.p3")}`,expContent:`${n("AboutPage.p4")}`,labContent:`${n("AboutPage.p5")}`,radContent:`${n("AboutPage.p6")}`,facultyContent:`${n("AboutPage.p7")}`,endingContent3:`${n("AboutPage.p8")}`,endingContent2:`${n("AboutPage.p9")}`,endingContent1:`${n("AboutPage.p10")}`};return e(c,{children:r("div",{className:"center-box",children:[r("div",{className:"start-box",children:[r("div",{className:"flex",children:[e("img",{className:"banner",src:i,alt:"banner"}),e("p",{children:t.start1})]}),e("p",{children:t.start2})]}),r("div",{className:"banner-box",children:[e("p",{children:t.bannerContent}),e("img",{className:"banner",src:l,alt:"banner"})]}),e("p",{children:t.expContent}),e("br",{}),e("p",{children:t.labContent}),e("br",{}),e("p",{children:t.radContent}),r("div",{className:"faculty",children:[e("img",{className:"logo",src:d,alt:"banner"}),e("p",{children:t.facultyContent})]}),e("p",{children:t.endingContent3}),e("br",{}),e("p",{children:t.endingContent2}),e("br",{}),e("p",{children:t.endingContent1})]})})},c=o.section`
     width: 100%;
     margin-top: 5.4rem;
     background: #effaf6;
@@ -219,4 +159,4 @@ const AboutWrap = styled.section`
                                                     }
                                                 }
                                             }
-`
+`;export{b as default};

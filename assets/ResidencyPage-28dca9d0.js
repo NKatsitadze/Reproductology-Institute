@@ -1,60 +1,4 @@
-import styled from "styled-components";
-
-import galleryIMG1 from '../assets/students/1.webp';
-import galleryIMG2 from '../assets/students/2.webp';
-import galleryIMG4 from '../assets/students/4.webp';
-import galleryIMG5 from '../assets/students/5.webp';
-import galleryIMG6 from '../assets/students/6.webp';
-import galleryIMG7 from '../assets/students/7.webp';
-import galleryIMG8 from '../assets/students/8.webp';
-import galleryIMG9 from '../assets/students/9.webp';
-import galleryIMG10 from '../assets/students/10.webp';
-import galleryIMG11 from '../assets/students/11.webp';
-import galleryIMG12 from '../assets/students/12.webp';
-
-import { useTranslation } from "react-i18next";
-
-const ResidencyPage = function() {
-
-    const { t } = useTranslation();
-
-    return (
-        <ResidencyWrap>
-            <div className="center-container">
-                <div className="grid-gallery">
-                    <div className="img-box-1 fixed"><img className="img" src={galleryIMG10} alt="student photo" /></div>
-                    <div className="img-box-2 fixed"><img className="img" src={galleryIMG1} alt="student photo" /></div>
-                    <div className="img-box-3 fixed"><img className="img" src={galleryIMG9} alt="student photo" /></div>
-                    <div className="img-box-4 fixed"><img className="img" src={galleryIMG6} alt="student photo" /></div>
-                    <div className="img-box-5 fixed"><img className="img" src={galleryIMG12} alt="student photo" /></div>
-                    <div className="img-box-6 fixed"><img className="img" src={galleryIMG2} alt="student photo" /></div>
-                    <div className="img-box-7 fixed"><img className="img" src={galleryIMG5} alt="student photo" /></div>
-                    <div className="img-box-8 fixed"><img className="img" src={galleryIMG7} alt="student photo" /></div>
-                    <div className="img-box-9 fixed"><img className="img" src={galleryIMG11} alt="student photo" /></div>
-                    <div className="img-box-10 fixed"><img className="img" src={galleryIMG8} alt="student photo" /></div>
-                    <div className="img-box-11 fixed"><img className="img" src={galleryIMG4} alt="student photo" /></div>
-                </div>
-
-                <div className="res-container">
-                    <div className="res-box">
-                        <b>{t("ResidencyPage.p1")}</b>
-                        <p>{t("ResidencyPage.p2")}</p>
-                        <p>{t("ResidencyPage.p3")}</p>
-                        <p>{t("ResidencyPage.p4")}</p>
-                        <p>{t("ResidencyPage.p5")}</p>
-                        <p>{t("ResidencyPage.p6")}</p>
-                        <p>{t("ResidencyPage.p7")}</p>
-                        <p>{t("ResidencyPage.p8")}</p>
-                   </div>
-                </div>
-            </div>
-        </ResidencyWrap>
-    )
-}
-
-export default ResidencyPage;
-
-const ResidencyWrap = styled.section`
+import{u as s,j as e,a as i,s as a}from"./index-15372c02.js";const n="/repro/assets/1-50fd2083.webp",o="/repro/assets/2-eacd04f2.webp",d="/repro/assets/4-ff8f8847.webp",g="/repro/assets/5-927e49ef.webp",m="/repro/assets/6-017a3cd0.webp",l="/repro/assets/7-20eb8d9b.webp",c="/repro/assets/8-ca08b0f1.webp",t="/repro/assets/9-604adc98.webp",p="/repro/assets/10-a9353806.webp",x="/repro/assets/11-192da399.webp",b="/repro/assets/12-f01d8481.webp",w=function(){const{t:r}=s();return e(h,{children:i("div",{className:"center-container",children:[i("div",{className:"grid-gallery",children:[e("div",{className:"img-box-1 fixed",children:e("img",{className:"img",src:p,alt:"student photo"})}),e("div",{className:"img-box-2 fixed",children:e("img",{className:"img",src:n,alt:"student photo"})}),e("div",{className:"img-box-3 fixed",children:e("img",{className:"img",src:t,alt:"student photo"})}),e("div",{className:"img-box-4 fixed",children:e("img",{className:"img",src:m,alt:"student photo"})}),e("div",{className:"img-box-5 fixed",children:e("img",{className:"img",src:b,alt:"student photo"})}),e("div",{className:"img-box-6 fixed",children:e("img",{className:"img",src:o,alt:"student photo"})}),e("div",{className:"img-box-7 fixed",children:e("img",{className:"img",src:g,alt:"student photo"})}),e("div",{className:"img-box-8 fixed",children:e("img",{className:"img",src:l,alt:"student photo"})}),e("div",{className:"img-box-9 fixed",children:e("img",{className:"img",src:x,alt:"student photo"})}),e("div",{className:"img-box-10 fixed",children:e("img",{className:"img",src:c,alt:"student photo"})}),e("div",{className:"img-box-11 fixed",children:e("img",{className:"img",src:d,alt:"student photo"})})]}),e("div",{className:"res-container",children:i("div",{className:"res-box",children:[e("b",{children:r("ResidencyPage.p1")}),e("p",{children:r("ResidencyPage.p2")}),e("p",{children:r("ResidencyPage.p3")}),e("p",{children:r("ResidencyPage.p4")}),e("p",{children:r("ResidencyPage.p5")}),e("p",{children:r("ResidencyPage.p6")}),e("p",{children:r("ResidencyPage.p7")}),e("p",{children:r("ResidencyPage.p8")})]})})]})})},h=a.section`
     width: 100%;
     margin-top: 6.8rem;
 
@@ -230,4 +174,4 @@ const ResidencyWrap = styled.section`
                         @media(max-width: 26.5625em) {
                             margin-top: 4.5rem;
                         }
-`
+`;export{w as default};
