@@ -58,7 +58,7 @@ const ServicesSection = function() {
                     </ul>
                 </div>
             </div>
-                <Link className="btn" to='/repro/services'>{t("ServicesSection.servicesButton")}</Link>
+                <Link className="btn" to='/services'>{t("ServicesSection.servicesButton")}</Link>
         </Section>
     )
 

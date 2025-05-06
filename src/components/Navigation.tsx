@@ -39,7 +39,7 @@ const Navigation = () =>  {
         <>
         <NavWrap > 
             <div className="center-container">
-                    <Link className="logo-link" to='/repro/'>
+                    <Link className="logo-link" to='/'>
                         <img className="logo" src={Logo} alt='Clinic logo' />
                     </Link>
                         
@@ -53,19 +53,19 @@ const Navigation = () =>  {
                         </div>
                         <ul className="navlinks-container mobile">
                             <li className='li'>
-                                <NavLink className={(navData)=> navData.isActive ? 'link active' : 'link'} to='/repro/'>{t("Navigation.home")}</NavLink>
+                                <NavLink className={(navData)=> navData.isActive ? 'link active' : 'link'} to='/'>{t("Navigation.home")}</NavLink>
                             </li>
                             <li className='li'>
-                                <NavLink className={(navData)=> navData.isActive ? 'link active' : 'link'} to='/repro/services'>{t("Navigation.services")}</NavLink>
+                                <NavLink className={(navData)=> navData.isActive ? 'link active' : 'link'} to='/services'>{t("Navigation.services")}</NavLink>
                             </li>
                             <li className='li'>
-                                <NavLink className={(navData)=> navData.isActive ? 'link active' : 'link'} to='/repro/team'>{t("Navigation.team")}</NavLink>
+                                <NavLink className={(navData)=> navData.isActive ? 'link active' : 'link'} to='/team'>{t("Navigation.team")}</NavLink>
                             </li>
                             <li className='li'>
-                                <NavLink className={(navData)=> navData.isActive ? 'link active' : 'link'} to='/repro/about-us'>{t("Navigation.about")}</NavLink>
+                                <NavLink className={(navData)=> navData.isActive ? 'link active' : 'link'} to='/about-us'>{t("Navigation.about")}</NavLink>
                             </li>
                             <li className='li'>
-                                <NavLink className={(navData)=> navData.isActive ? 'link active' : 'link'} to='/repro/contact-us'>{t("Navigation.contact")}</NavLink>
+                                <NavLink className={(navData)=> navData.isActive ? 'link active' : 'link'} to='/contact-us'>{t("Navigation.contact")}</NavLink>
                             </li>
                         </ul>
 
@@ -75,22 +75,22 @@ const Navigation = () =>  {
 
                         <ul className={'burger-back' + (width > 900 ? ' back-motion' : '')}>
                             <li className='li'>
-                               <NavLink onClick={closeMobileMenu} className={(navData)=> navData.isActive ? 'mobile-link mob-active' : 'mobile-link'} to='/repro/'>{t("Navigation.home")}</NavLink>
+                               <NavLink onClick={closeMobileMenu} className={(navData)=> navData.isActive ? 'mobile-link mob-active' : 'mobile-link'} to='/'>{t("Navigation.home")}</NavLink>
                             </li>
                             <li className='li display'>
-                                <NavLink onClick={closeMobileMenu} className={(navData)=> navData.isActive ? 'mobile-link mob-active' : 'mobile-link'} to='/repro/services'><div>{t("Navigation.services")}</div> <div>{t("Navigation.govPrograms")}</div></NavLink>
+                                <NavLink onClick={closeMobileMenu} className={(navData)=> navData.isActive ? 'mobile-link mob-active' : 'mobile-link'} to='/services'><div>{t("Navigation.services")}</div> <div>{t("Navigation.govPrograms")}</div></NavLink>
                             </li>
                             <li className='li'>
-                                <NavLink onClick={closeMobileMenu} className={(navData)=> navData.isActive ? 'mobile-link mob-active' : 'mobile-link'} to='/repro/team'>{t("Navigation.team")}</NavLink>
+                                <NavLink onClick={closeMobileMenu} className={(navData)=> navData.isActive ? 'mobile-link mob-active' : 'mobile-link'} to='/team'>{t("Navigation.team")}</NavLink>
                             </li>
                             <li className='li'>
-                                <NavLink onClick={closeMobileMenu} className={(navData)=> navData.isActive ? 'mobile-link mob-active' : 'mobile-link'} to='/repro/residency'>{t("Navigation.residency")}</NavLink>
+                                <NavLink onClick={closeMobileMenu} className={(navData)=> navData.isActive ? 'mobile-link mob-active' : 'mobile-link'} to='/residency'>{t("Navigation.residency")}</NavLink>
                             </li>
                             <li className='li nowrap'>
-                                <NavLink onClick={closeMobileMenu} className={(navData)=> navData.isActive ? 'mobile-link mob-active' : 'mobile-link'} to='/repro/about-us'>{t("Navigation.about")}</NavLink>
+                                <NavLink onClick={closeMobileMenu} className={(navData)=> navData.isActive ? 'mobile-link mob-active' : 'mobile-link'} to='/about-us'>{t("Navigation.about")}</NavLink>
                             </li>
                             <li className='li'>
-                                <NavLink onClick={closeMobileMenu} className={(navData)=> navData.isActive ? 'mobile-link mob-active' : 'mobile-link'} to='/repro/contact-us'>{t("Navigation.contact")}</NavLink>
+                                <NavLink onClick={closeMobileMenu} className={(navData)=> navData.isActive ? 'mobile-link mob-active' : 'mobile-link'} to='/contact-us'>{t("Navigation.contact")}</NavLink>
                             </li>
                             <li className="li panel">
                                  <div className="s-box"><a target="_blank" href="https://www.facebook.com/reproinstitute.ge"><img src={fb} alt="" /></a></div>

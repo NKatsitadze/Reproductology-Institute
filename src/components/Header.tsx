@@ -15,10 +15,10 @@ const Header = function() {
     return ( <>
         <HeaderStyled>
             <div className="extras-box">
-                <Link className="u-fix" to='/repro/services'>
+                <Link className="u-fix" to='/services'>
                     <div className="gov-box"><img className="icon" src={governmentIcon} alt="" />{t("Navigation.govPrograms")}</div>
                 </Link>
-                <Link className="u-fix" to='/repro/residency'>
+                <Link className="u-fix" to='/residency'>
                     <div className="residency-box"><img className="icon" src={mortar} alt="" />{t("Navigation.residency")}</div>
                 </Link>
             </div>

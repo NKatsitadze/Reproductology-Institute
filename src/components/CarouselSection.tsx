@@ -241,7 +241,7 @@ const CarouselSection = function() {
                     })}
                 </Slider>
             </div> 
-                <Link className="btn" to='/repro/team'>{t("CarouselSection.carouselButton")}</Link>
+                <Link className="btn" to='/team'>{t("CarouselSection.carouselButton")}</Link>
         </CarouselWrap>
     )
 }

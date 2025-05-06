@@ -15,7 +15,7 @@ const ErrorPage = function() {
             <div className="info">
                  <span className="notFound">{t("ErrorPage.p1")}</span>
                  <span className="returning">{t("ErrorPage.p2")}</span>
-                 <Link className="link" to='/repro/'>{t("ErrorPage.p4")}</Link>
+                 <Link className="link" to='/'>{t("ErrorPage.p4")}</Link>
             </div>
         </Page>
     )

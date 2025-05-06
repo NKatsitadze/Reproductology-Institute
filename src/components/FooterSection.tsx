@@ -12,19 +12,19 @@ const FooterSection = function() {
         <FooterWrap>
             <div className="center-container">
                 <div className="box">
-                    <Link className="header lnk" to='/repro/services'>{t("Footer.box1.link1")}</Link>
-                    <Link className='lnk' to='/repro/services'>{t("Footer.box1.link2")}</Link>
-                    <Link className='lnk' to='/repro/services'>{t("Footer.box1.link3")}</Link>
-                    <Link className='lnk' to='/repro/services'>{t("Footer.box1.link4")}</Link>
+                    <Link className="header lnk" to='/services'>{t("Footer.box1.link1")}</Link>
+                    <Link className='lnk' to='/services'>{t("Footer.box1.link2")}</Link>
+                    <Link className='lnk' to='/services'>{t("Footer.box1.link3")}</Link>
+                    <Link className='lnk' to='/services'>{t("Footer.box1.link4")}</Link>
                 </div>
                 <div className="box">
-                    <Link className="header lnk" to='/repro/about-us'>{t("Footer.box2.link1")}</Link>
-                    <Link className='lnk' to='/repro/about-us'>{t("Footer.box2.link2")}</Link>
-                    <Link className='lnk' to='/repro/about-us'>{t("Footer.box2.link3")}</Link>
-                    <Link className='lnk' to='/repro/about-us'>{t("Footer.box2.link4")}</Link>
+                    <Link className="header lnk" to='/about-us'>{t("Footer.box2.link1")}</Link>
+                    <Link className='lnk' to='/about-us'>{t("Footer.box2.link2")}</Link>
+                    <Link className='lnk' to='/about-us'>{t("Footer.box2.link3")}</Link>
+                    <Link className='lnk' to='/about-us'>{t("Footer.box2.link4")}</Link>
                 </div>
                 <div className="box">
-                <Link className="header lnk" to='/repro/contact-us'>{t("Footer.box3.link1")}</Link>
+                <Link className="header lnk" to='/contact-us'>{t("Footer.box3.link1")}</Link>
                 <span>{t("Footer.box3.link3")}: <br /> (+995 32) 224 00 99 <br /> (+995 32) 224 00 98</span> 
                 <span>info@reproinstitute.ge</span>
                 </div>

@@ -97,7 +97,7 @@ const ServicesPage = function(){
                     </ul>
                 </div>
 
-                <Link className="service-box" to='/repro/residency'>
+                <Link className="service-box" to='/residency'>
                     <img className="service-img" src={learning} alt="service image" />
                     <div className="list-box">
                         <span className="bold">{t("ServicesPage.residency.title")}<span className="arrow">&#187;</span></span>
