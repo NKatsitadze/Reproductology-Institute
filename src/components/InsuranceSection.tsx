@@ -11,8 +11,7 @@ import insu7 from '../assets/insurance/psp.png';
 const InsuranceSection = function() {
     return (
         <InsuSection className="insurance-section">
-            <span></span>
-                <div className="insurance-box">
+            <div className="insurance-box">
                 <div className="logo-box"><img className="logo" src={insu1} alt="Insurance company logo" /></div>
                 <div className="logo-box"><img className="logo" src={insu2} alt="Insurance company logo" /></div>
                 <div className="logo-box"><img className="logo" src={insu3} alt="Insurance company logo" /></div>
@@ -20,8 +19,8 @@ const InsuranceSection = function() {
                 <div className="logo-box"><img className="logo" src={insu5} alt="Insurance company logo" /></div>
                 <div className="logo-box"><img className="logo" src={insu6} alt="Insurance company logo" /></div>
                 <div className="logo-box"><img className="logo" src={insu7} alt="Insurance company logo" /></div>
-                </div>
-            </InsuSection>
+            </div>
+        </InsuSection>
     )
 }
 
