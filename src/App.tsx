@@ -3,12 +3,12 @@ import styled from "styled-components"
 
 import { RouterProvider, createBrowserRouter } from "react-router-dom"
 
-import MainPage from "./pages/MainPage"
 import Navigation from "./components/Navigation"
 import ErrorPage from "./pages/ErrorPage"
 
 import LoadingPage from "./pages/LoadingPage"
 
+const LazyMain = React.lazy(() => import('./pages/MainPage'));
 const LazyResidency = React.lazy(() => import('./pages/ResidencyPage'));
 const LazyTeam = React.lazy(() => import('./pages/TeamPage'));
 const LazyAbout = React.lazy(() => import('./pages/AboutPage'));
@@ -29,7 +29,7 @@ function App() {
       children: [
         {
           index: true,
-          element: <MainPage />,
+          element: <React.Suspense fallback={<LoadingPage />}><LazyMain /></React.Suspense>,
         },
         {
           path: 'services',
