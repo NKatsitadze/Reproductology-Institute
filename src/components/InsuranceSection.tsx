@@ -3,7 +3,7 @@ import styled from "styled-components";
 import insu1 from '../assets/insurance/ardi.png';
 import insu2 from '../assets/insurance/tbc.png';
 import insu3 from '../assets/insurance/qartu.png';
-import insu4 from '../assets/insurance/Alfa.jpg';
+import insu4 from '../assets/insurance/alfa.jpg';
 import insu5 from '../assets/insurance/igg.png';
 import insu6 from '../assets/insurance/unison.jpg';
 import insu7 from '../assets/insurance/psp.png';
