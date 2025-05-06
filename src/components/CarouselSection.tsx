@@ -346,9 +346,9 @@ const CarouselWrap = styled.section`
         bottom: 0%;
         color: #fff;
         background: var(--Catalina-Blue);
-        box-shadow: 0px 13px 13px 1px rgba(0,0,0,0.5);
-        -webkit-box-shadow: 0px 13px 13px 1px rgba(0,0,0,0.5);
-        -moz-box-shadow: 0px 13px 13px 1px rgba(0,0,0,0.5);
+        box-shadow: 0px 13px 13px 1px rgba(0,0,0,0.25);
+        -webkit-box-shadow: 0px 13px 13px 1px rgba(0,0,0,0.25);
+        -moz-box-shadow: 0px 13px 13px 1px rgba(0,0,0,0.25);
     }
 
                     // Below 1200px

@@ -132,12 +132,12 @@ const Section = styled.section`
     }
 
     .btn:hover {
-        transform: translateY(-3px);
+        transform: translateY(-2px);
         color: #FFF;
         background: var(--Catalina-Blue);
-        box-shadow: 0px 13px 13px 1px rgba(0,0,0,0.5);
-        -webkit-box-shadow: 0px 13px 13px 1px rgba(0,0,0,0.5);
-        -moz-box-shadow: 0px 13px 13px 1px rgba(0,0,0,0.5);
+        box-shadow: 0px 13px 13px 1px rgba(0,0,0,0.25);
+        -webkit-box-shadow: 0px 13px 13px 1px rgba(0,0,0,0.25);
+        -moz-box-shadow: 0px 13px 13px 1px rgba(0,0,0,0.25);
     }
 
         @media(max-width: 1600px) {
