@@ -23,7 +23,7 @@ function App() {
       errorElement: <ErrorPage />,
     },
     {
-      path: '/repro/',
+      path: '/',
       element: <Navigation />,
       errorElement: <ErrorPage />,
       children: [
